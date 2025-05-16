@@ -59,5 +59,6 @@ Figuras planas são formas geométricas que possuem **duas dimensões**: **altur
 Desenvolvido por:
 
 <img src="https://avatars.githubusercontent.com/u/201272778?v=4" height="100" alt="Foto de perfil do autor" style="border-radius: 50%">
+
 **_Joyciane Sousa_**
 Meu Usuario: [GitHub](https://github.com/JoycianeSousa)
