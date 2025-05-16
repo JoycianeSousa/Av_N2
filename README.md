@@ -54,3 +54,9 @@ Figuras planas são formas geométricas que possuem **duas dimensões**: **altur
 - **Descrição**: Polígono com 6 lados iguais.
 - **Área**: (3 × √3 × lado²) / 2  
 - **Perímetro**: 6 × lado
+
+  👤 Autor
+Desenvolvido por:
+
+<img src="https://github.com/SEU-USUARIO.png" width="100" height="100" alt="Foto de perfil do autor" style="border-radius: 50%">
+Seu Nome
