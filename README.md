@@ -55,6 +55,58 @@ Figuras planas são formas geométricas que possuem **duas dimensões**: **altur
 - **Área**: (3 × √3 × lado²) / 2  
 - **Perímetro**: 6 × lado
 
+.
+
+# 📦 Formas Geométricas Espaciais
+## ✨ O que são Figuras Geométricas Espaciais? 
+
+Figuras geométricas espaciais são sólidos que possuem três dimensões: altura, largura e comprimento. Elas ocupam espaço e, por isso, possuem volume e área total, ao contrário das figuras planas que possuem apenas perímetro e área.
+
+
+
+
+### 🔷 Formas Geométricas Espaciais Presentes no Projeto
+
+#### 📦 Cubo
+- Descrição: Sólido com 6 faces quadradas congruentes.
+- Área Total: Seis vezes a área de uma face.
+- Volume: Aresta elevada ao cubo.
+
+#### 🧱 Paralelepípedo
+- Descrição: Sólido com 6 faces retangulares.
+- Área Total: Soma de duas vezes cada combinação dos produtos entre comprimento, largura e altura.
+- Volume: Produto do comprimento, largura e altura.
+
+#### 🔺 Pirâmide (base quadrada)
+- Descrição: Sólido com uma base quadrada e quatro faces laterais triangulares.
+- Área Total: Soma da área da base com a área lateral.
+- Volume: Produto da área da base pela altura, dividido por três.
+
+#### 🏀 Esfera
+- Descrição: Sólido perfeitamente redondo, onde todos os pontos da superfície estão à mesma distância do centro.
+- Área Total: Quatro vezes pi vezes o raio ao quadrado.
+- Volume: Quatro terços de pi vezes o raio elevado ao cubo.
+
+#### 🥫 Cilindro
+- Descrição: Sólido com duas bases circulares paralelas e uma superfície lateral curva.
+- Área Total: Duas vezes pi vezes o raio vezes a soma do raio com a altura.
+- Volume: Pi vezes o raio ao quadrado vezes a altura.
+
+#### 🔺 Cone
+- Descrição: Sólido com uma base circular e uma superfície lateral que converge para um vértice.
+- Área Total: Pi vezes o raio vezes a soma do raio com a geratriz.
+- Volume: Um terço de pi vezes o raio ao quadrado vezes a altura.
+
+#### 🏢 Prisma (base poligonal regular)
+- Descrição: Sólido com duas bases paralelas e congruentes, ligadas por faces laterais que são paralelogramos.
+- Área Total: Soma de duas vezes a área da base com o produto do perímetro da base pela altura.
+- Volume: Área da base multiplicada pela altura.
+
+#### 🔺 Tetraedro Regular
+- Descrição: Sólido com quatro faces triangulares equiláteras, seis arestas e quatro vértices.
+- Área Total: Aresta ao quadrado multiplicada pela raiz quadrada de três.
+- Volume: Aresta elevada ao cubo multiplicada pela raiz quadrada de dois, dividido por doze.
+
 ## Diagrama UML Abstração:
 ![Image](https://github.com/user-attachments/assets/ef635f2a-7eac-4531-9666-6116f08123ff)
 
